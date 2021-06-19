@@ -1,0 +1,41 @@
+Data source,Age,Sex,CRT (sec),,,,,,Allen test (sec),,,,Rubor of Dependency test (sec),,,Vein distention,,,Peripheral vein collapse (cm)
+,,,Big toe R,Big toe L,Ffinger R,Ffinger L,Iced R,Iced L,R radial,R ulnar,L radial,L ulnar,R leg,L leg,Histamine-like color,Neck,back of hand,dorsum of foot,
+Hannah May Badana,19,F,1.95,1.56,1.65,1.8,2.54,2.32,1.4,1.65,1.72,1.1,10.39,10.5,,collapsed,distended,distended,3.8
+Lorraine Monserate,21,F,1.68,1.76,1.34,1.19,2.26,2.18,1.93,1.66,2.06,2.56,9.76,10.61,,collapsed,slightly distended,distended,4.5
+Samantha Caballes,21,F,1.31,1.24,0.85,0.92,1.83,1.7,1.04,0.78,1.51,0.66,10.7,10.75,,collapsed,distended,distended,3.3
+Ana Lorraine Castañares ,21,F,1.82,1.88,1.03,0.75,2.05,1.95,1.81,1.77,1.51,1.5,10.8,11.1,,collapsed ,distended,distended ,3.4
+Joanna Precy Mayonado,20,F,1.37,1.57,1.3,1.18,2,2.09,1.7,2.23,1.58,2.86,11.7,12.97,,collapsed,distended,distended,2.1
+Lady Lou Paña,51,F,1.12,1.75,1.34,1.2,1.95,2.1,1.8,1.28,1.55,1.23,10.05,9.54,,collapsed,distended,distended,3.2
+Ana Canete,13,M,2.2,2.1,1.6,1.8,3.1,2.9,1.78,1.86,1.61,1.63,9.79,10.1,,collapsed,distended,distended,3.8
+Chela Ann Balbin,16,F,1.26,1.36,0.77,0.8,1.3,1.49,1.29,1.38,1.76,2.08,9.15,9.33,,collapsed,distended,distended,5.5
+Jan Ira Villacarlos ,22,F,1.19,1.05,1.35,1.45,3.06,2.43,2.53,2.14,2.79,2.49,5.23,6.95,,collapsed,distended,distended,2.8
+Sheena Claire Lor,15,M,1.88,1.34,1.32,1.8,2.88,3.04,2.02,1.77,1.51,1.11,12.27,11.03,,collapsed,distended,distended,4
+Joseph Habla,16,F,1.51,1.42,1.17,1.33,2.62,2.48,1.87,1.92,1.55,1.79,11.14,11.45,,collapsed,distended,distended,3.5
+Alyssa Catherine P. Bate,20,F,3.1,2.53,1.65,2.1,2.28,2.45,2.52,2.42,2.06,2.5,8.32,9.18,,collapsed,distended,distended,2.5
+Jeremiah Cabatingan,21,M,1.23,1.42,1,0.92,1.96,2.55,2.24,1.57,1.69,1.2,11.2,10.27,,collapsed,distended,distended,3.9
+Janemma Marie Despi,50,F ,1.06,1.81,0.83,0.87,2.83,2.64,1.85,1.34,1.48,1.19,10.13,9.57,,collapsed,distended,distended,3.1
+Krissa Joy Tabornal,17,F,1.64,1.64,0.92,0.67,1.87,1.99,1.82,2.43,2.64,3.23,11.48,12.81,,collapsed,distended,distended,4
+Jim Epie Mae Mapula,18,F,1.45,1.59,1.02,1.14,2.26,2.47,1.9,2.08,2.16,2.32,10.15,11.02,,collapsed,distended,distended,3.2
+Michael Rey M. Logroño,10,F,1.04,1.27,1,1.12,2.14,2.21,2.5,2.19,2.13,1.72,10.11,11.68,,collapsed,distended,distended,2.7
+Edrine Durante,11,M,1.43,1.35,1.41,1.9,2.48,2.9,1.84,1.39,1.42,1.26,8.71,9.63,,collapsed,distended,distended,2.9
+Jasmin Lynn Mellijor,57,F,1.08,1.21,1.28,1.16,2.61,2.97,2.02,1.28,2.71,2.05,7.57,9.13,,collapsed,distended,distended,4.8
+Trisha Mae Tayactac,21,F,1.39,1.06,0.8,1.1,2.24,2.11,1.43,1.98,1.53,1.57,10.26,10.92,,collapsed,distended,distended,2.9
+Elaisa Jean Nacilla,15,F,1.04,0.96,1.21,1.25,2.43,2.33,1.71,2.49,2.22,2.27,8.14,9.96,,collapsed,distended,distended,3.6
+James Hermoso,13,M,1.84,2.15,0.99,1.2,2.86,2.78,1.43,2.1,1.51,1.68,13.78,12.91,,collapsed,distended,distended,8.5
+Carlo Carreon,17,M,1.3,1.5,1.03,0.77,2.34,1.8,5.32,4.68,2.72,2.82,9.73,10.56,,collapsed,distended,distended,10.3
+Rey Marde Togle,57,M,1.31,1.9,1.65,1.83,3.43,3.41,2.08,2.16,2.03,2.95,12,11.56,,collapsed,distended,distended,4.8
+Ma. Jessa Dunting,22,F,1.01,1.44,1.46,1.65,1.88,1.98,2.34,2.58,2.46,2.48,10.02,10.22,,collapsed,distended,distended,5.2
+Kayzel J. Maata,21,F,1.34,1.4,1.08,1.05,1.92,1.9,1.37,1.5,1.54,1.76,11.2,11.86,,collapsed,distended,distended,2.7
+Julcee Mar Damole,18,M,1.52,1.54,1.11,1.18,2.29,2.36,1.73,2.5,2.2675,2.54,10.3,11.46,,collapsed,distended,distended,3.8
+Michele Bantula,18,M,1.49,1.28,1.23,1.09,1.95,2.56,1.81,2.43,2.27,2.16,10.3,10.86,,collapsed,distended,distended,3.6
+Jericho Regidor,21,M,1.58,1.77,1,1.57,1.96,2.23,1.56,1.73,2.1,2.33,10.6,10.73,,collapsed,distended,distended,4.6
+Lisa Mae Cugal,20,M,1.38,1.1,0.88,0.74,2.76,2.09,2.02,1.67,2.81,2.12,10.48,9.51,,collapsed,distended,distended,3.8
+Trisha Castillano,21,F,1.3,1.42,1.05,1.16,2.25,2.7,1.7,1.82,2.34,2.6,10.9,11.03,,collapsed,distended,distended,3.7
+Lance S. Beniga,33,F,2.03,3.12,1.54,1.43,3.12,3,2.31,2.12,3.12,2.24,8.27,9.54,,collapsed,distended,distended,6.32
+Catherine Elmido,57,F,2.3,1.4,1.4,1.09,3.02,2.8,2.53,3.79,2.5,2.9,9.51,10.24,,collapsed,distended,distended,5.3
+Keara JXIV P. Lapeciros,19,M,1.5,1.62,1.25,1.36,2.4,2.93,1.92,2.02,2.52,2.81,11.1,11.23,,collapsed,distended,distended,3.9
+Bless Cyra Bustamante,20,F,1.77,2.03,1.33,1.3,2.16,2.03,1.9,2.11,2.16,2.57,9.76,10.81,,collapsed,distended,distended,5.5
+Clayton Sprewel T Diola,21,M,1.12,1.3,1.07,0.84,2.45,1.93,2.6,2.06,2.15,1.7,10.45,10.95,,,,,
+Krissan Dane G. Gayosa,17,M,1.43,1.5,1.08,0.92,1.87,1.9,2.24,2.58,2.27,2.32,10.58,11.26,,collapsed,distended,distended,4.5
+Krisha Marie M. Mantilla,20,F,2.01,1.87,0.98,1.04,2.62,2.14,1.96,2.15,2.17,2.35,9.43,10.18,,collapsed,distended,distended,5.8
+Hans Diether Tolabing,21,M,1.1,1.4,1,1,1.6,1.6,2.1,2.4,2.5,2.3,8.8,9.1,,collapsed,distended,distended,4.5
